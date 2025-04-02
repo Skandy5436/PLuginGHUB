@@ -18,7 +18,7 @@ namespace PLuginGHUB
     /// </summary>
     public PLuginGHUBComponent()
       : base("PLuginGHUB", "ASpi",
-        "Construct an Archimedean, or arithmetic, spiral given its radii and number of turns.",
+        "This is my first plugin Construct an Archimedean, or arithmetic, spiral given its radii and number of turns.",
         "Curve", "Primitive")
     {
     }

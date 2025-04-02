@@ -19,7 +19,7 @@ namespace PLuginGHUB
     public PLuginGHUBComponent()
       : base("PLuginGHUB", "ASpi",
         "This is my first plugin Construct an Archimedean, or arithmetic, spiral given its radii and number of turns.",
-        "Curve", "Primitive")
+        "kavya fuck off", "Primitive")
     {
     }
 
